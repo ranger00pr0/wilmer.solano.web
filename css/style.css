@@ -1,3 +1,12 @@
+.nav-lista {
+    width: 100%;
+    height: 100%;
+    background-color:rgb(125, 184, 184);
+    justify-content: justify;
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+}
 /* Es el contenedor para el titulo que aparece arriba */
 #nav {
     width: 100%;
