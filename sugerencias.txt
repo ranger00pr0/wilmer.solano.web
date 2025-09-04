@@ -1,11 +1,3 @@
-# Sugerencias para mejorar tu portafolio "WILMERLAND"
-
-Hola Wilmer,
-
-¡Tu portafolio tiene un gran comienzo! El código está limpio y bien estructurado. Aquí tienes una lista de sugerencias con ejemplos de código para que tu página sea más atractiva e interactiva.
-
----
-
 ## 1. Mejoras Visuales Generales
 
 ### Paleta de Colores y Tipografía
